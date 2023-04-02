@@ -127,17 +127,9 @@ At the command prompt, type `nano`.
 Hello World
 ```
 
-# Links
+# Link
 
-<!--
-
-know more about me [Rishav Raj](https://iamrishavraj1.netlify.app/).
-
--->
-
-know more about me [Azaz](https://github.com/Azaz696/).
-
-# URLs and Email Addresses
+Website Link [Link](https://markdown-editor-17.netlify.app/).
 
 # Images
 
