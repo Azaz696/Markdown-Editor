@@ -1,70 +1,150 @@
-# Getting Started with Create React App
+# Markdown Editor
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### Now create your own markdown document in few minutes using Rapid Markdown Editor and the best feature is that you can save the document as PDF format with a single click.
 
-## Available Scripts
+![FinalRapid](https://user-images.githubusercontent.com/62508858/178119135-72299511-2eb7-4c33-93f1-bf9d77f81ee1.png)
 
-In the project directory, you can run:
+![WhatsApp Image 2022-07-10 at 12 23 25 AM](https://user-images.githubusercontent.com/62508858/178119246-a6a22cf6-78cf-448a-aef1-e27f4fe9aaaa.jpeg)
 
-### `npm start`
+# Heading Format
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<!--
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Heading level 1
 
-### `npm test`
+## Heading level 2
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Heading level 3
 
-### `npm run build`
+#### Heading level 4
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+##### Heading level 5
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+###### Heading level 6
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-->
 
-### `npm run eject`
+# Heading level 1
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Heading level 2
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### Heading level 3
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+#### Heading level 4
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+##### Heading level 5
 
-## Learn More
+###### Heading level 6
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Paragraph
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+<!--
+I really like using Markdown.
 
-### Code Splitting
+I think I'll use it to format all of my documents from now on.
+ -->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+I really like using Markdown.
 
-### Analyzing the Bundle Size
+I think I'll use it to format all of my documents from now on.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# For Bold Text
 
-### Making a Progressive Web App
+<!--
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+I just love **bold text**.
+I just love **bold text**.
+Love**is**bold
 
-### Advanced Configuration
+-->
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+I just love **bold text**.
+I just love **bold text**.
+Love**is**bold
 
-### Deployment
+# For Italic Text
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+<!--
 
-### `npm run build` fails to minify
+Italicized text is the _cat's meow_.
+Italicized text is the _cat's meow_.
+A*cat*meow
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+-->
+
+Italicized text is the _cat's meow_.
+Italicized text is the _cat's meow_.
+A*cat*meow
+
+# For Blockquotes
+
+<!--
+
+ > Dorothy followed her through many of the beautiful rooms in her castle.
+
+-->
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+
+## For Blockquotes With Multiple Paragraphs
+
+<!--
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+-->
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+
+## For Nested Blockquotes
+
+<!--
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+ -->
+
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+
+# Code
+
+<!--
+At the command prompt, type `nano`.
+
+```
+Hello World
+
+```
+-->
+
+At the command prompt, type `nano`.
+
+```
+Hello World
+```
+
+# Links
+
+<!--
+
+know more about me [Rishav Raj](https://iamrishavraj1.netlify.app/).
+
+-->
+
+know more about me [Azaz](https://github.com/Azaz696/).
+
+# URLs and Email Addresses
+
+# Images
+
+<!--
+
+![RapidDesktop](https://user-images.githubusercontent.com/62508858/178118822-e32e4715-503b-447b-9995-f94bc6bf2ad3.png)
+
+-->
+
+![RapidDesktop](https://user-images.githubusercontent.com/62508858/178118822-e32e4715-503b-447b-9995-f94bc6bf2ad3.png)
